@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350280010111",
+    "project_id": "partiu-fe924",
+    "storage_bucket": "partiu-fe924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350280010111:android:a759fef584e6342d3e724a",
+        "android_client_info": {
+          "package_name": "com.example.partiu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350280010111-qjjok373n80hrqsvbmh89q286shu7fmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-ffK-6NjKiqdgsCDWOCuePlHqOmhPi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350280010111-qjjok373n80hrqsvbmh89q286shu7fmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
